@@ -3,8 +3,7 @@ author:
   name: Matthew Webb
   email: mwebbmwebb@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Hello! My name is Matthew, I'm a SWE in the Seattle area. Not planning to do
-  much with this blog but who knows.
+  Hello! My name is Matthew, I'm a SWE in the Seattle area.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 

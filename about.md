@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-idk
+Quick, look away! There's definitely stuff here it's just loading...
