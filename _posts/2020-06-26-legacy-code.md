@@ -25,8 +25,8 @@ us.
 
 ![there's a picture here, I swear](/assets/apollo11_comparison.jpg)
 
-Side note, Apollo 11 had [2048 _words_ of RAM (36864 words
-ROM)](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer). For reference you
+Side note, Apollo 11 had [2048 _words_ of RAM and 36864 words
+ROM](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer). For reference you
 would need at least 15000 Apollo 11 AGCs to spin up a JVM, depending on which
 version you want. All for.. what? Basically a really strict scripting language
 with horrible metaprogramming? I don't know what Margaret Hamilton is doing
