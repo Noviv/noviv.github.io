@@ -26,7 +26,7 @@ fix this in [#1](https://github.com/Noviv/noviv.github.io/issues/1).
 * [01:35] Psych, I stayed up; turns out I didn't install `cmake`. A quick `apt
 install` and we're back on track. Gnight.
 * [09:29] Gmornin. Build finished and it looks like it didn't take that long -
-maybe 30 mins? Should have recoreded the time. `rustc --version` = `1.46.0-dev`
+maybe 30 mins? Should have recorded the time. `rustc --version` = `1.46.0-dev`
 here we go!
 * [09:47] Discovered a broken link in Rust's README! Time to make the world's
 smallest PR.
